@@ -1,8 +1,7 @@
 # Silavolta
-- 👋 Hi, I’m @silavolta
-- 📫 How to reach me silavolta@yandex.ru
 
-- - 👋 Привет, я @silavolta
+
+- 👋 Привет, я @silavolta
 - 📫 Как со мной связаться silavolta@yandex.ru
 
 <!---
